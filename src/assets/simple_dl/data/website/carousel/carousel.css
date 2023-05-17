@@ -1,0 +1,42 @@
+.carousel {
+   border: none;
+   background-color: #666666;
+   width: 100%;
+   margin: auto;
+   margin-bottom: 10px;
+}
+
+.slider-top {
+    width: 900px;
+    height: 200px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slider-top img {
+  width: auto;
+  height: 100%;
+  margin: auto;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: grey;
+}    
+
+.slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+}    
+
+.slick-active {
+  opacity: .5;
+}
+
+.slick-current {
+  opacity: 1;
+}

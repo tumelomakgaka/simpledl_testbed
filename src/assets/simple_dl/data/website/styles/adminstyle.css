@@ -1,0 +1,133 @@
+/* 
+   CSS Style for Simple DL admin
+   Hussein Suleman
+   30 January 2021
+*/
+
+
+/* global default */
+
+body {
+   font: 12pt Verdana, arial, sans serif;
+}
+
+.banner {
+   display: block; 
+   height: 110px; 
+   margin-bottom: 10px; 
+   border-bottom: 3px solid grey;
+}
+
+.banner-logo {
+   width: 20%; 
+   display: block; 
+   float: left;
+}
+
+.banner-logo img {
+/*   height: 100px; */
+   padding: 10px
+}
+
+.banner-logins {
+   width: 80%;
+   display: block; 
+   float: left
+}
+
+.banner-login {
+   display:block; 
+   float:right;
+   margin-right: 10px;
+}
+
+#logoutbutton {
+   display: none;
+}
+
+#logoutbutton img {
+   width:50px;
+}
+
+#loginname {
+   font: 16px Verdana, arial, sans-serif; 
+   margin-top: 18px;
+   margin-right: 18px;
+}
+
+.login-button {
+   margin: auto;
+   display: block;
+}
+
+.submitsection,
+.managesection {
+   display: none;
+}
+
+.banner-links {
+   display: inline; 
+   float: right; 
+   margin-top: 62px; 
+   margin-right: 100px;
+}
+
+.content {
+   display: block; 
+   float: none;
+   margin-left: 10px;
+   margin-right: 10px;
+}
+
+h1 {
+   font-size: 140%;
+   font-family: Verdana, arial, sans-serif;
+   color: #666666;
+   margin-top: 20px;
+}
+
+h2 {
+   font-size: 120%;
+   font-family: Verdana, arial, sans-serif;
+   color: #666666;
+   margin-top: 20px;
+}
+
+table {
+   margin-top: 20px;
+}
+
+table tr td, table tr th {
+   text-align: left;
+   padding: 5px;
+   border-bottom: 1px solid grey;
+}
+
+
+.manageroptions {
+   display: flex;
+   justify-content: flex-start;
+   margin: 10px;
+}
+
+.manageroption {
+   margin-left: 5px;
+}
+
+/* for moderation table */
+
+.moderationtable {
+   font-size: 0.8em;
+}
+
+.mtheading {
+   font-style: italic;
+}
+
+.mttext {
+   margin-left: 10pt;
+}
+
+.mtarea {
+   margin-left: 10pt;   
+}

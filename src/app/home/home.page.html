@@ -1,0 +1,42 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Testbed
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Testbed</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div class="scroll-div" scrollY="true">
+    <ion-accordion-group>
+        <div *ngFor="let searchQuery of searchQueries">
+    .       <ion-accordion value="searchQuery.indexNumber">
+              <ion-item slot="header" color="light">
+                <ion-label>Index {{searchQuery.indexNumber}}</ion-label>
+                <span>{{searchQuery.totalIndexTime}} ms</span>
+              </ion-item>
+              <div class="ion-padding" slot="content" *ngFor="let searchValue of searchQuery.value">
+                Query: {{searchValue.query}} | Time: <p> {{searchValue.time}} ms</p>
+                <ion-icon *ngIf="searchQuery.time" name="checkmark-circle-outline"></ion-icon>
+              </div>
+            </ion-accordion>
+        </div>
+    </ion-accordion-group>
+  <div style="text-align:center;">
+    <ion-grid>
+      <ion-row text-center class="mt-5">
+        <ion-col class="col-12">
+          <button class="circle-button circle-button-bg font-md" [disabled]="running" ion-button (click)="start()">Start</button>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </div>
+    <!-- <ion-button color="primary" (click)='startTestbed()'>Start Testbed</ion-button> -->
+  </div>
+</ion-content>

@@ -1,0 +1,54 @@
+<config>
+<toplevel id="main">
+   <field_search>
+      <field><id>lod</id><location>fullrecord/item/levelOfDescription</location></field>
+      <field><id>actor</id><location>fullrecord/item/event/eventActor</location></field>
+      <field><id>comments</id><location>fullrecord/comments/comment/*</location></field>
+      <field><id>subcollection</id><location>fullrecord/filename/subpath</location></field>
+      <field><id>source</id><location>fullrecord/item/radTitleSourceOfTitleProper</location></field>
+      <field><id>arrangement</id><location>fullrecord/item/arrangement</location></field>
+      <field><id>identifier</id><location>fullrecord/item/identifier</location></field>
+      <field><id>materialdesignation</id><location>fullrecord/item/radGeneralMaterialDesignation</location></field>
+      <field><id>date</id><location>(fullrecord/item/event/eventDate)[last()]</location></field>
+      <field><id>scope</id><location>fullrecord/item/scopeAndContent</location></field>
+      <field><id>title</id><location>fullrecord/item/title</location></field>
+      <field><id>description</id><location>fullrecord/item/generalNote</location></field>
+      <field><id>repository</id><location>fullrecord/item/repository</location></field>
+      <field><id>all</id><location>weight=5 fullrecord/item/title;*//text()</location></field>
+   </field_search>
+   <field_browse>
+      <field><id>repository</id><name>Custodian</name><location>repository</location></field>
+      <field><id>lod</id><name>Level of description</name><location>lod</location></field>
+      <field><id>materialdesignation</id><name>Material type</name><location>materialdesignation</location></field>
+      <field><id>actor</id><name>Makers and shapers</name><location>actor</location></field>
+      <field><id>subcollection</id><name>Sub-collection</name><location>subcollection</location></field>
+      <field><id>date</id><name>Date</name><location>date</location></field>
+   </field_browse>
+   <field_sort>
+      <field>relevance</field>
+      <field>title</field>
+      <field>date</field>
+   </field_sort>
+   <field_index>
+      <index><id>1</id><name>metadata +fulltext +comments</name><location>/home/fhya/simpledl/bin/../../data/config/../../public_html/metadata,/home/fhya/simpledl/bin/../../data/config/../../db/comments,/home/fhya/simpledl/bin/../../data/config/../../db/fulltext</location></index>
+      <index><id>2</id><name>metadata +comments</name><location>/home/fhya/simpledl/bin/../../data/config/../../public_html/metadata,/home/fhya/simpledl/bin/../../data/config/../../db/comments</location></index>
+      <index><id>3</id><name>metadata</name><location>/home/fhya/simpledl/bin/../../data/config/../../public_html/metadata</location></index>
+   </field_index>
+</toplevel>
+<toplevel id="users">
+   <field_search>
+      <field><id>name</id><location>fullrecord/user/name</location></field>
+      <field><id>type</id><location>fullrecord/user/type</location></field>
+      <field><id>all</id><location>weight=100 fullrecord/user/name;*//text()</location></field>
+   </field_search>
+   <field_browse>
+   </field_browse>
+   <field_sort>
+      <field>relevance</field>
+      <field>name</field>
+   </field_sort>
+   <field_index>
+      <index><id>1</id><name>users</name><location>/home/fhya/simpledl/bin/../../data/config/../../public_html/users</location></index>
+   </field_index>
+</toplevel>
+</config>

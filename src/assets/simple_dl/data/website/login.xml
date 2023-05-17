@@ -1,0 +1,41 @@
+<page-login>
+
+<div class="content">
+
+<h1>Login</h1>
+
+<p><br/>Step 1: Click the button to login using your Google Account or
+choose the account to use.</p>
+
+<div class="banner-logins">
+<div class="banner-login">
+  <div id="my-signin">
+    <div id="my-signin2">
+    </div>
+  </div>
+</div>
+</div>
+
+<p><br/><br/><br/>If you do not have a Google Account, create one in order to log in.  You
+can create an account just for this site.</p>
+
+<hr/>
+
+<p>Step 2: Click the button to login to the site.</p>
+
+<form name="loginform" class="loginformclass" method="post" action="/cgi-bin/login.pl">
+<button id="loginbutton" class="login-button mdc-button disabled" type="submit">
+<span class="mdc-button__label">Login</span></button>
+<input type="hidden" name="username" value=""/>
+<input type="hidden" name="useremail" value=""/>
+<input type="hidden" name="googlecookie" value=""/>
+</form>
+<script>
+   mdc.ripple.MDCRipple.attachTo(document.querySelector('.login-button'));
+</script>
+
+<hr/>
+
+</div>
+
+</page-login>

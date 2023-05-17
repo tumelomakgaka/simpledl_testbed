@@ -1,0 +1,77 @@
+<config>
+   <root>metadata</root>
+   <field optional="0">
+      <type>select</type>
+      <name>radGeneralMaterialDesignation</name>
+      <description>Choose the type/category of upload:</description>
+      <option>Books and book chapters</option>
+      <option>Published articles</option>
+      <option>Dictionaries</option>
+      <option>Periodical, newspaper and magazine extracts</option>
+      <option>Theses and dissertations</option>
+      <option>Academic papers</option>
+      <option>Miscellaneous papers (including diaries, fieldnotes and correspondence)</option>
+      <option>Objects</option>
+      <option>Images</option>
+      <option>Sound</option>
+      <option>Other</option>
+   </field>
+   <field optional="1" repeatable="1">
+      <type>text</type>
+      <name>creator</name>
+      <description>Author/Producer (e.g., the author of a text you are uploading):</description>
+   </field>
+   <field optional="0">
+      <type>text</type>
+      <name>title</name>
+      <description>Title (e.g., the name of the book):</description>
+   </field>
+   <field optional="1" repeatable="0">
+      <type>date</type>
+      <name>date</name>
+      <description>Date created (e.g., 2010-06-21 in YYYY-MM-DD format):</description>
+   </field>
+   <field optional="1" repeatable="1">
+      <type>structured</type>
+      <name>event</name>
+      <description>Enter an event in the lifecycle of the item (besides creation/production)</description>
+      <subfield>
+         <type>text</type>
+         <name>eventActor</name>
+         <description>Enter name of an actor responsible for this event:</description>
+      </subfield>
+      <subfield>
+         <type>select</type>
+         <name>eventType</name>
+         <description>Choose the event type:</description>
+         <option>Curation</option>
+         <option>Custody</option>
+         <option>Ownership</option>
+         <option>Collection</option>
+      </subfield>
+      <subfield>
+         <type>date</type>
+         <name>eventDate</name>
+         <description>Enter a date associated with this event (e.g., 2010-06-21 in YYYY-MM-DD format):</description>
+      </subfield>
+   </field>
+   <field optional="1" repeatable="1">
+      <type>area</type>
+      <name>scopeAndContent</name>
+      <description>Enter a description:</description>
+   </field>
+   <field optional="1" repeatable="1">
+      <type>area</type>
+      <name>radNoteGeneral</name>
+      <description>Additional Information:</description>
+   </field>
+   <field>
+      <name>note1</name>
+      <type>note</type>
+      <description>Note: By adding this resource to the Five Hundred Year Archive website, I understand and 
+      acknowledge that it will be made available under a 
+      <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons CC-BY-NC-ND licence</a>. 
+      Users may not upload any material for which they do not own the copyright or which is not yet out of 
+      copyright.</description>
+   </field>
+</config>      

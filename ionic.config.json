@@ -1,0 +1,8 @@
+{
+  "name": "testbed-app",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

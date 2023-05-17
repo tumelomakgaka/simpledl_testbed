@@ -1,0 +1,772 @@
+Sharon Reeves
+21
+
+1
+etd2006/18
+An Overview of Theses Canada and ETD Initiatives at Library and Archives Canada
+author
+2006
+Mark Jordan
+41
+
+1
+etd2006/33
+A Metadata Application Profile for Canadian Repositories
+author
+2006
+Lisa Atkinson
+29
+
+1
+etd2006/23
+The Rejection of D-Space: Selecting Theses Database Software at the University of Calgary Archives
+author
+2006
+Shukrije Rama
+63
+
+1
+etd2011/4
+Thesis and dissertations management overview in Kosovo
+author
+2011
+Thomas Wollschlaeger
+16
+
+1
+etd2006/13
+ETD&apos;s as pilot materials for long-term preservation efforts in kopal
+author
+2006
+Jean-Claude Guédon
+5
+
+1
+etd2006/4
+Etd and Repositories
+author
+2006
+Cédric Dumas
+45
+
+1
+etd2006/36
+Castore, une plateforme libre pour la capitalisation documentaire des établissements d&apos;enseignement supérieur et de recherche
+author
+2006
+Susan Copeland
+50
+
+1
+etd2006/41
+The &apos;EThOS&apos; Toolkit
+author
+2006
+Venkat Srinivasan
+86
+
+1
+etd2011/20
+Improving accessibility to collections of electronic theses and dissertations
+author
+2011
+Collette Onyebinama
+55
+
+1
+etd2011/1
+Digitization efforts in the Federal University of Technology Owerri (Futo): successes, challenges, prospects
+author
+2011
+Daniel Alemneh
+80
+
+1
+etd2011/16
+Data desiccation: facilitating long-term access, use, and reuse of ETDs
+author
+2011
+ Kathleen Shearer
+42
+
+1
+etd2006/33
+A Metadata Application Profile for Canadian Repositories
+author
+2006
+Brenda Chawner
+79
+
+1
+etd2011/15
+Social factors influencing the adoption and development of Electronic Theses and Dissertations (ETD) programmes in the Arab Gulf States
+author
+2011
+Marisa Ramirez
+56
+
+1
+etd2011/2
+Do ETDs deter publishers? Does web availability count as prior publication?
+author
+2011
+Malgorzata Rozniakowska
+9
+
+1
+etd2006/8
+Following the leaders – what we can do about Polish ETD projects?
+author
+2006
+Brian Surratt
+40
+
+1
+etd2006/32
+MODS meets Manakin: Innovations in the Texas Digital Library’s Thesis and Dissertation Collection
+author
+2006
+Sayeed Choudhury
+33
+
+1
+etd2006/27
+Added values to e-theses
+author
+2006
+Jude Edminster
+36
+
+1
+etd2006/29
+Intellectual Property and Mandatory ETDs that Constitute Literary Works of Art: A case study of one creative writing program’s efforts to achieve solutions
+author
+2006
+Yann Nicolas
+43
+
+1
+etd2006/34
+TEF : métadonnées pour les thèses électroniques françaises
+author
+2006
+Seonho Kim
+18
+
+1
+etd2006/15
+Supply and Demand Analysis in NDLTD Based on Patron Specialty Survey and Contents Statistics
+author
+2006
+ Priscilla Caplan
+14
+
+1
+etd2006/11
+Digital Preservation for ETDs
+author
+2006
+Joan Lippincott
+87
+
+1
+etd2011/21
+University digital scholarship centers and support for graduate thesis and dissertation work
+author
+2011
+Rosemary Otando
+73
+
+1
+etd2011/12
+Building institutional repositories in KLISC Member Institutions in Kenya: emerging challenges
+author
+2011
+ Austin McLean
+27
+
+1
+etd2006/21
+From Paper to ETDs: A Case Studies of Two institutions from the Perspective of the Graduate School
+author
+2006
+Sung Hee Park
+75
+
+2
+etd2011/14
+Enriching the VT ETD-db System with references
+author
+2011
+etd2011/22
+VT ETD-db 2.0: rewriting ETD-db system
+author
+2011
+Mark Phillips
+81
+
+1
+etd2011/16
+Data desiccation: facilitating long-term access, use, and reuse of ETDs
+author
+2011
+Uwe Klosa
+11
+
+1
+etd2006/9
+The DiVA Publishing System Uncovered: XML Based Technologies for Advanced Publishing Services
+author
+2006
+Max Read
+60
+
+1
+etd2011/2
+Do ETDs deter publishers? Does web availability count as prior publication?
+author
+2011
+John Slattery
+26
+
+1
+etd2006/21
+From Paper to ETDs: A Case Studies of Two institutions from the Perspective of the Graduate School
+author
+2006
+Austin Mclean
+85
+
+1
+etd2011/19
+Where Sharing Should Not Go: An Environmental Scan of Originality Assurance Awareness and Efforts to Discourage or Prevent Plagiarism
+author
+2011
+Kimberli D. Weeks
+89
+
+1
+etd2011/22
+VT ETD-db 2.0: rewriting ETD-db system
+author
+2011
+Peter Schirmbacher
+69
+
+1
+etd2011/10
+CARPET - a Directory of Generic Publishing Tools
+author
+2011
+Peter Suber
+6
+
+1
+etd2006/5
+Open Access for ETDs
+author
+2006
+Charles Thomas
+13
+
+1
+etd2006/11
+Digital Preservation for ETDs
+author
+2006
+Jamal Alsalmi
+77
+
+1
+etd2011/15
+Social factors influencing the adoption and development of Electronic Theses and Dissertations (ETD) programmes in the Arab Gulf States
+author
+2011
+Dr Chern Li Liew
+78
+
+1
+etd2011/15
+Social factors influencing the adoption and development of Electronic Theses and Dissertations (ETD) programmes in the Arab Gulf States
+author
+2011
+John Hagen
+28
+
+2
+etd2006/22
+The Institutional Repository at West Virginia University Libraries: Resources for Effective Promotion
+author
+2006
+etd2011/7
+Creative partnerships to advance graduate research in the digital age
+author
+2011
+Edward Fox
+17
+
+3
+etd2006/14
+Curriculum Development: Enhancing Education and Comprehension of NDLTD
+author
+2006
+etd2011/20
+Improving accessibility to collections of electronic theses and dissertations
+author
+2011
+etd2011/25
+Panel on plans related to the NDLTD Union Catalog
+author
+2011
+Dr Mangala Hirwade
+91
+
+1
+etd2011/24
+Digitization of theses and dissertations: status quo India
+author
+2011
+ Paula Callan
+38
+
+1
+etd2006/30
+Developing legal protocols and practices for managing copyright in electronic theses
+author
+2006
+Mme Marie-Paule Kabore
+20
+
+1
+etd2006/17
+Projet de numérisation des thèses des facultés de médecine et mémoires d’instituts de formation dans le domaine de la santé de la Région africaine par la Bibliothèque du Bureau régional de l&apos;OMS pour l&apos;Afrique
+author
+2006
+Charl Roberts
+8
+
+1
+etd2006/7
+ETD in South Africa – The National Development
+author
+2006
+ Blazej Feret
+10
+
+1
+etd2006/8
+Following the leaders – what we can do about Polish ETD projects?
+author
+2006
+Hussein Suleman
+71
+
+1
+etd2011/11
+Creating a National Electronic Thesis &amp; Dissertation Portal in South Africa
+author
+2011
+Mahendra Jadhav
+30
+
+1
+etd2006/24
+Enhancing Digital Repository of Scholarly Publications at Indian Institute of Technology, Bombay
+author
+2006
+Abednego Corletey
+64
+
+1
+etd2011/5
+Institutional repositories for open access: the Ghanaian experience
+author
+2011
+Karin De Jager
+83
+
+1
+etd2011/17
+Two South African institutional repositories: a comparative overview
+author
+2011
+Christopher Pressler
+44
+
+1
+etd2006/35
+Open Access at work: DART-EUROPE one-year on
+author
+2006
+Paul Mather
+88
+
+1
+etd2011/22
+VT ETD-db 2.0: rewriting ETD-db system
+author
+2011
+Kamini Santhanagopalan
+15
+
+1
+etd2006/12
+Prototype for Preservation of International ETDs using LOCKSS and OAI-PMH
+author
+2006
+Robert H. McDonald
+23
+
+1
+etd2006/20
+Establishing Technical, Administrative and Legal Consolidation of Non- Published and Near-Published Research: the Florida State University Experience
+author
+2006
+Alejandra González
+7
+
+1
+etd2006/6
+Development of an ETD Library at the Instituto Balseiro (Argentina)
+author
+2006
+ Michael Kaplan
+25
+
+1
+etd2006/20
+Establishing Technical, Administrative and Legal Consolidation of Non- Published and Near-Published Research: the Florida State University Experience
+author
+2006
+Martin Wolf
+49
+
+1
+etd2006/40
+EThOS (Electronic Theses Online Service) - a national UK project
+author
+2006
+Naseem Sherwani
+39
+
+1
+etd2006/31
+The Role of Penn State in Promoting Intellectual Property Rights Through ETDs publishing
+author
+2006
+Lawrence Webley
+70
+
+1
+etd2011/11
+Creating a National Electronic Thesis &amp; Dissertation Portal in South Africa
+author
+2011
+Guenter Toerner
+51
+
+1
+etd2006/42
+DissOnline-Tutor a project for tutoring the editing of electronic thesis and dissertations
+author
+2006
+Stéphane Chaudiron
+34
+
+1
+etd2006/28
+Médiation documentaire et visée éditoriale : analyse des principes de mise en ligne de ressources pédagogiques
+author
+2006
+ Richard Walter
+35
+
+1
+etd2006/28
+Médiation documentaire et visée éditoriale : analyse des principes de mise en ligne de ressources pédagogiques
+author
+2006
+Antanas Streimikis
+12
+
+1
+etd2006/10
+The Integration of Lithuanian ETD into the National Digital Library
+author
+2006
+Gerard van Westrienen
+48
+
+1
+etd2006/39
+Promise of Science: a ‘Dutch treat’ to doctoral e-theses
+author
+2006
+Ifeanyi J Ezema
+65
+
+1
+etd2011/6
+Electronic theses and dissertations in Nigeria University Libraries: status, challenges and strategies
+author
+2011
+Tatenda Chipeperekwa
+72
+
+1
+etd2011/11
+Creating a National Electronic Thesis &amp; Dissertation Portal in South Africa
+author
+2011
+Lazarus Matizirofa
+90
+
+1
+etd2011/23
+The role of stakeholders: electronic theses and dissertations submission workflow for the University of Johannesburg
+author
+2011
+ Kim Neal
+4
+
+1
+etd2006/3
+Panel: Copyright
+author
+2006
+Cyprian Ugwu
+66
+
+1
+etd2011/6
+Electronic theses and dissertations in Nigeria University Libraries: status, challenges and strategies
+author
+2011
+Frida Sandgren
+22
+
+1
+etd2006/19
+A workflow system for ETDs. A supportive feature in the electronic publishing chain
+author
+2006
+Joan Dalton
+58
+
+1
+etd2011/2
+Do ETDs deter publishers? Does web availability count as prior publication?
+author
+2011
+Joe Moxley
+52
+
+1
+etd2006/43
+The NDLTD Wiki &amp; Online Community Activities
+author
+2006
+Uta Ackermann
+68
+
+1
+etd2011/9
+First a trial balloon, now an established workflow: collecting electronic thesis at the German National Library
+author
+2011
+Gail Mcmillan
+57
+
+2
+etd2011/2
+Do ETDs deter publishers? Does web availability count as prior publication?
+author
+2011
+etd2011/22
+VT ETD-db 2.0: rewriting ETD-db system
+author
+2011
+Philip Wong
+31
+
+1
+etd2006/25
+Developing an E-Theses Collection in the CityU Institutional Repository
+author
+2006
+Annah Macha
+82
+
+1
+etd2011/17
+Two South African institutional repositories: a comparative overview
+author
+2011
+ Eva Müller
+3
+
+4
+etd2006/3
+Panel: Copyright
+author
+2006
+etd2006/9
+The DiVA Publishing System Uncovered: XML Based Technologies for Advanced Publishing Services
+author
+2006
+etd2006/19
+A workflow system for ETDs. A supportive feature in the electronic publishing chain
+author
+2006
+etd2006/27
+Added values to e-theses
+author
+2006
+Ina Louw
+62
+
+1
+etd2011/3
+The dot on the i: reflections of a postgraduate student and repository manager on the etd process at the University of Pretoria
+author
+2011
+John Thuku
+67
+
+1
+etd2011/8
+Towards a National ETD Database: responsibilities of the libraries in Kenya
+author
+2011
+Jean Paul Ducasse
+46
+
+1
+etd2006/37
+Le programme Cyberthèses : un réseau institutionnel et multilingue pour l’accès ouvert
+author
+2006
+Art Ryhno
+1
+
+1
+etd2006/1
+Open Source: Sensible solutions for empowering the masses
+author
+2006
+Rida Benjelloun
+47
+
+1
+etd2006/38
+Archimède 2.0 : une solution libre pour les dépôts institutionnels
+author
+2006
+Molly Dolan
+74
+
+1
+etd2011/13
+Assessing awareness of repositories and the Open Access Movement among ETD Faculty Advisors
+author
+2011
+Mark Perry
+37
+
+1
+etd2006/30
+Developing legal protocols and practices for managing copyright in electronic theses
+author
+2006
+Edward A. Fox
+76
+
+2
+etd2011/14
+Enriching the VT ETD-db System with references
+author
+2011
+etd2011/22
+VT ETD-db 2.0: rewriting ETD-db system
+author
+2011
+Elsabé Olivier
+61
+
+1
+etd2011/3
+The dot on the i: reflections of a postgraduate student and repository manager on the etd process at the University of Pretoria
+author
+2011
+ Chuck Thomas
+24
+
+1
+etd2006/20
+Establishing Technical, Administrative and Legal Consolidation of Non- Published and Near-Published Research: the Florida State University Experience
+author
+2006
+Nancy Seamans
+59
+
+1
+etd2011/2
+Do ETDs deter publishers? Does web availability count as prior publication?
+author
+2011
+Dany Bouchard
+53
+
+1
+etd2006/44
+Les dépôts institutionnels comme infrastructure d’information pour la recherche : un modèle ouvert pour la gestion des documents scientifiques
+author
+2006
+Charles Greenberg
+84
+
+1
+etd2011/19
+Where Sharing Should Not Go: An Environmental Scan of Originality Assurance Awareness and Efforts to Discourage or Prevent Plagiarism
+author
+2011
+Marcus Bornfreund
+2
+
+2
+etd2006/2
+Creative Commons.ca
+author
+2006
+etd2006/3
+Panel: Copyright
+author
+2006
+Ana Pavani
+32
+
+2
+etd2006/26
+Getting to Know the Contents of Bibliographic References of ETDs
+author
+2006
+etd2011/18
+Examining access by country, language and areas of knowledge
+author
+2011
+Christine Jewell
+19
+
+1
+etd2006/16
+Required Open Access to ETDs: technical, logistical, and philosophical implications of the move from an option to open access as the default
+author
+2006
+Chinwe Anunobi
+54
+
+1
+etd2011/1
+Digitization efforts in the Federal University of Technology Owerri (Futo): successes, challenges, prospects
+author
+2011
